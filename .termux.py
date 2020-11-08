@@ -8,6 +8,9 @@ gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
 
+os.system("pkg install screenfetch")
+is.system("clear")
+
 information = "Offline"
 
 print(f"""
