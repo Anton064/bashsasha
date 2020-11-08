@@ -9,7 +9,7 @@ cy ="\033[1;36m"
 sn ="\033[1;35m"
 
 os.system("pkg install screenfetch")
-is.system("clear")
+os.system("clear")
 
 information = "Offline"
 
