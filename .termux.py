@@ -13,9 +13,9 @@ information = "Offline"
 print(f"""
 Welcome to Termux!
  ___________________
-|👤 Администратор   |
+|👤 Пользователь    |
 |-------------------|
-|👤 USER_NAME: Anton|
+|👤 USER_NAME: Саша |
 |___________________|
 
 Administrator: {re}"""+ information + f"""{wh}
